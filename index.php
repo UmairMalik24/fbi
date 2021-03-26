@@ -1,7 +1,7 @@
 ?php
 //include the functions file
 
-<!-- require_once(__DIR__ . "/funtions.php");
+require_once(__DIR__ . "/funtions.php");
 
 if (!empty($_GET['url'])) {
 
@@ -98,7 +98,7 @@ if (!empty($_GET['url'])) {
     //Return blank if there is no video
     $download_button = '';
     }
-} -->
+}
 
-echo "HELLO WORLD";
+
 ?>
